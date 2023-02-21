@@ -1,1 +1,1 @@
-
+O projeto constroi uma barra de progresso marcando os passos conforme vai clicando nos botões proximo e desmarca quando clica no botão anterior. sechagar nos extremos no final ou no inicio o botão é desabilitado.
